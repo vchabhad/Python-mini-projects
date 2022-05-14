@@ -1,6 +1,6 @@
 #count odd and even numbers
 #define series or list as an example we are taking list
-lst = [10, 21, 4, 45, 66, 93, 1]
+lst = [1,2,3,4,5,6,7,8,9,10]
 #define variable
 even,odd = 0, 0
   
