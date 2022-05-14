@@ -1,0 +1,17 @@
+#count odd and even numbers
+#define series or list as an example we are taking list
+lst = [10, 21, 4, 45, 66, 93, 1]
+#define variable
+even,odd = 0, 0
+  
+for num in lst:
+      
+    #check condition
+    if num % 2 == 0:
+        even += 1
+  
+    else:
+        odd += 1
+          
+print("Even numbers in the list: ", even)
+print("Odd numbers in the list: ", odd)
