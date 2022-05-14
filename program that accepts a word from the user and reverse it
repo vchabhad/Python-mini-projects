@@ -1,0 +1,7 @@
+# program to reverse the string
+#Get input from user
+str1=input("Enter string to reverse: ")
+#logic to reverse the string
+revstr=str1[::-1]
+#print output
+print("reversed string is :",revstr)
