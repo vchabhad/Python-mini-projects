@@ -12,4 +12,4 @@ for i in str1:
         if i==x :
             count= count + 1
 
-print(count) 
+print("vowel count:" count) 
